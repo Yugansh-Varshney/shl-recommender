@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: shl-recommender
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python main.py
+    envVars:
+      - key: GROQ_API_KEY
+        sync: false
+      - key: PORT
+        value: 8001
+    healthCheckPath: /health
