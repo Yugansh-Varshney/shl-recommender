@@ -28,6 +28,8 @@ def retrieve(query: str, n: int = 10) -> list[dict]:
             "adaptive_irt": meta.get("adaptive_irt") == "True",
             "description": meta.get("description", ""),
             "job_levels": meta.get("job_levels", ""),
+            "duration": meta.get("duration", ""),
+            "languages": meta.get("languages", ""),
             "score": float(results["distances"][0][i]),
         })
     return assessments

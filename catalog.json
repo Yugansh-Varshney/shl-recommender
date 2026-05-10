@@ -14,6 +14,11 @@
       "Manager",
       "Executive",
       "Mid-Professional"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -30,6 +35,11 @@
       "Entry-Level",
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -47,6 +57,11 @@
       "Manager",
       "Supervisor",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -64,6 +79,10 @@
       "Graduate",
       "Manager",
       "General Population"
+    ],
+    "duration": "",
+    "languages": [
+      "Japanese"
     ]
   },
   {
@@ -81,6 +100,10 @@
       "Graduate",
       "Manager",
       "General Population"
+    ],
+    "duration": "",
+    "languages": [
+      "Japanese"
     ]
   },
   {
@@ -97,6 +120,12 @@
       "Entry-Level",
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -113,6 +142,11 @@
       "Entry-Level",
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -130,6 +164,11 @@
       "Manager",
       "Supervisor",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -146,6 +185,13 @@
       "Entry-Level",
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Spanish",
+      "Latin American Spanish",
+      "Japanese"
     ]
   },
   {
@@ -162,14 +208,18 @@
       "Entry-Level",
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "Japanese"
     ]
   },
   {
     "name": "Branch Manager - Short Form",
     "url": "https://www.shl.com/products/product-catalog/view/branch-manager-short-form/",
-    "test_type": "A",
+    "test_type": "B",
     "test_types": [
-      "A"
+      "B"
     ],
     "remote_testing": false,
     "adaptive_irt": false,
@@ -179,6 +229,11 @@
       "Manager",
       "Supervisor",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -195,6 +250,11 @@
       "Entry-Level",
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -212,6 +272,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -229,6 +294,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -246,6 +316,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -258,7 +333,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Agile Software Development",
@@ -270,7 +350,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "7 minutes",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Agile Testing (New)",
@@ -282,7 +367,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "AI Skills",
@@ -298,6 +388,11 @@
       "Graduate",
       "Manager",
       "General Population"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -315,6 +410,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -332,6 +432,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -349,6 +454,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -361,7 +471,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Apache Hadoop (New)",
@@ -378,6 +493,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -395,6 +515,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -412,6 +537,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -429,6 +559,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -446,6 +581,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -463,6 +603,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -480,6 +625,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -497,6 +647,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -514,6 +669,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -537,6 +697,12 @@
       "Professional Individual Contributor",
       "General Population",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -553,6 +719,11 @@
       "Graduate",
       "Manager",
       "Mid-Professional"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -570,6 +741,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -587,6 +763,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -604,6 +785,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -621,6 +807,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -639,6 +830,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "30 minutes",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -656,6 +852,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -674,6 +875,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -691,6 +897,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -708,6 +919,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -720,7 +936,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Basic Computer Literacy (Windows 10) (New)",
@@ -736,6 +957,11 @@
       "Entry-Level",
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -753,6 +979,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -765,7 +996,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Biotech Lab Techniques (New)",
@@ -782,6 +1018,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -799,6 +1040,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -818,6 +1064,11 @@
       "Mid-Professional",
       "Professional Individual Contributor",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -833,6 +1084,11 @@
     "job_levels": [
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -845,7 +1101,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "C# Programming (New)",
@@ -862,6 +1123,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -874,7 +1140,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Cardiology and Diabetes Management (New)",
@@ -891,6 +1162,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -908,6 +1184,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -925,6 +1206,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -942,6 +1228,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -954,7 +1245,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Cloud Computing (New)",
@@ -966,7 +1262,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "COBOL Programming (New)",
@@ -978,7 +1279,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Computer Science (New)",
@@ -995,6 +1301,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -1011,6 +1322,11 @@
       "Entry-Level",
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -1023,7 +1339,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Core Java (Advanced Level) (New)",
@@ -1035,7 +1356,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Core Java (Entry Level) (New)",
@@ -1052,6 +1378,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -1064,7 +1395,13 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "CSS3 (New)",
@@ -1076,7 +1413,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Culinary Skills (New)",
@@ -1094,6 +1436,11 @@
       "Mid-Professional",
       "Supervisor",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -1106,14 +1453,31 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Dutch",
+      "Italian",
+      "Japanese",
+      "Chinese Simplified"
+    ]
   },
   {
     "name": "Customer Service Phone Solution",
     "url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-solution/",
-    "test_type": "A",
+    "test_type": "P",
     "test_types": [
-      "A"
+      "P",
+      "M",
+      "C"
     ],
     "remote_testing": false,
     "adaptive_irt": false,
@@ -1122,6 +1486,21 @@
       "Entry-Level",
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Dutch",
+      "Italian",
+      "Japanese",
+      "Chinese Simplified"
     ]
   },
   {
@@ -1134,7 +1513,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Data Entry (New)",
@@ -1146,7 +1530,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Data Entry Alphanumeric Split Screen - US",
@@ -1158,7 +1547,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Data Entry Numeric Split Screen - US",
@@ -1177,6 +1571,11 @@
       "Mid-Professional",
       "Professional Individual Contributor",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -1189,7 +1588,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Data Science (New)",
@@ -1201,7 +1605,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Data Warehousing Concepts",
@@ -1218,6 +1627,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -1230,7 +1644,25 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Dutch",
+      "Italian",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Finnish",
+      "Russian"
+    ]
   },
   {
     "name": "Dermatology (New)",
@@ -1242,7 +1674,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Desktop Support (New)",
@@ -1254,7 +1691,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Digital Advertising (New)",
@@ -1272,6 +1714,11 @@
       "Mid-Professional",
       "Supervisor",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -1295,6 +1742,16 @@
       "Professional Individual Contributor",
       "General Population",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Japanese"
     ]
   },
   {
@@ -1317,6 +1774,14 @@
       "Supervisor",
       "General Population",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "Spanish",
+      "Latin American Spanish",
+      "Japanese"
     ]
   },
   {
@@ -1329,7 +1794,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Dojo (New)",
@@ -1341,7 +1811,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Drupal (New)",
@@ -1358,6 +1833,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -1373,6 +1853,24 @@
     "job_levels": [
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Dutch",
+      "Italian",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Finnish",
+      "Russian"
     ]
   },
   {
@@ -1390,6 +1888,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -1407,6 +1910,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -1424,6 +1932,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -1441,6 +1954,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -1458,6 +1976,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -1475,6 +1998,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -1492,6 +2020,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -1508,6 +2041,11 @@
       "Entry-Level",
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -1525,6 +2063,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -1543,6 +2086,20 @@
       "Director",
       "Executive",
       "Mid-Professional"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "German",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Dutch",
+      "Italian",
+      "Arabic",
+      "Japanese",
+      "Chinese Simplified"
     ]
   },
   {
@@ -1561,6 +2118,17 @@
       "Director",
       "Executive",
       "Mid-Professional"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Italian",
+      "Japanese"
     ]
   },
   {
@@ -1577,6 +2145,24 @@
       "Entry-Level",
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Dutch",
+      "Italian",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Finnish",
+      "Arabic",
+      "Japanese"
     ]
   },
   {
@@ -1593,6 +2179,24 @@
       "Entry-Level",
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Dutch",
+      "Italian",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Finnish",
+      "Arabic",
+      "Japanese"
     ]
   },
   {
@@ -1609,6 +2213,24 @@
       "Entry-Level",
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Dutch",
+      "Italian",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Finnish",
+      "Arabic",
+      "Japanese"
     ]
   },
   {
@@ -1625,6 +2247,24 @@
       "Entry-Level",
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Dutch",
+      "Italian",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Finnish",
+      "Arabic",
+      "Japanese"
     ]
   },
   {
@@ -1641,6 +2281,24 @@
       "Entry-Level",
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Dutch",
+      "Italian",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Finnish",
+      "Arabic",
+      "Japanese"
     ]
   },
   {
@@ -1657,6 +2315,24 @@
       "Entry-Level",
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Dutch",
+      "Italian",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Finnish",
+      "Arabic",
+      "Japanese"
     ]
   },
   {
@@ -1674,6 +2350,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -1691,6 +2372,14 @@
       "Manager",
       "Director",
       "Executive"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "Italian",
+      "Japanese",
+      "Korean"
     ]
   },
   {
@@ -1708,6 +2397,13 @@
       "Manager",
       "Director",
       "Executive"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "Italian",
+      "Japanese"
     ]
   },
   {
@@ -1725,6 +2421,13 @@
       "Manager",
       "Director",
       "Executive"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "Italian",
+      "Japanese"
     ]
   },
   {
@@ -1742,6 +2445,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -1758,6 +2466,11 @@
       "Entry-Level",
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -1774,6 +2487,11 @@
       "Entry-Level",
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -1793,6 +2511,11 @@
       "Mid-Professional",
       "Supervisor",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -1811,6 +2534,11 @@
       "Mid-Professional",
       "Supervisor",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -1828,6 +2556,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -1847,6 +2580,12 @@
       "Mid-Professional",
       "Professional Individual Contributor",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -1866,6 +2605,11 @@
       "Mid-Professional",
       "Professional Individual Contributor",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -1884,6 +2628,11 @@
       "Mid-Professional",
       "Supervisor",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -1901,6 +2650,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -1919,6 +2673,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -1936,6 +2695,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -1953,6 +2717,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -1970,6 +2739,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -1989,6 +2763,11 @@
       "Mid-Professional",
       "Supervisor",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -2006,6 +2785,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -2023,6 +2807,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -2038,6 +2827,24 @@
     "job_levels": [
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Dutch",
+      "Italian",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Finnish"
     ]
   },
   {
@@ -2055,6 +2862,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "Japanese"
     ]
   },
   {
@@ -2072,6 +2884,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "Japanese"
     ]
   },
   {
@@ -2089,6 +2906,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "Japanese"
     ]
   },
   {
@@ -2106,6 +2928,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -2122,6 +2949,11 @@
       "Graduate",
       "Manager",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -2137,6 +2969,21 @@
     "job_levels": [
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Dutch",
+      "Italian",
+      "Japanese",
+      "Chinese Simplified"
     ]
   },
   {
@@ -2152,6 +2999,19 @@
     "job_levels": [
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Italian",
+      "Japanese",
+      "Chinese Simplified",
+      "Thai"
     ]
   },
   {
@@ -2167,6 +3027,18 @@
     "job_levels": [
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Italian",
+      "Japanese",
+      "Thai"
     ]
   },
   {
@@ -2185,6 +3057,11 @@
       "Manager",
       "Supervisor",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -2202,6 +3079,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -2219,6 +3101,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -2237,6 +3124,11 @@
       "Mid-Professional",
       "Supervisor",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -2255,6 +3147,11 @@
       "Director",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -2272,6 +3169,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -2289,6 +3191,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -2306,6 +3213,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -2323,6 +3235,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -2335,7 +3252,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Interpersonal Communications",
@@ -2354,6 +3276,11 @@
       "Mid-Professional",
       "Professional Individual Contributor",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -2370,6 +3297,11 @@
       "Graduate",
       "Manager",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -2387,6 +3319,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -2405,6 +3342,11 @@
       "Mid-Professional",
       "Supervisor",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -2417,7 +3359,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Java 8 (New)",
@@ -2429,7 +3376,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Java Design Patterns (New)",
@@ -2441,7 +3393,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Java Frameworks (New)",
@@ -2458,6 +3415,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -2470,7 +3432,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Java Web Services (New)",
@@ -2487,6 +3454,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -2499,7 +3471,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Jenkins (New)",
@@ -2511,7 +3488,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Job Control Language (New)",
@@ -2523,7 +3505,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "jQuery (New)",
@@ -2535,7 +3522,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Kubernetes (New)",
@@ -2552,6 +3544,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -2569,6 +3566,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -2587,6 +3589,11 @@
       "Manager",
       "Professional Individual Contributor",
       "General Population"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -2599,7 +3606,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Load Runner (New)",
@@ -2611,7 +3623,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Management Scenarios",
@@ -2623,7 +3640,15 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English International",
+      "Italian",
+      "Arabic",
+      "Japanese",
+      "Korean"
+    ]
   },
   {
     "name": "Managerial Scenarios Candidate Report",
@@ -2635,7 +3660,16 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English International",
+      "German",
+      "Russian",
+      "Romanian",
+      "Turkish",
+      "Japanese"
+    ]
   },
   {
     "name": "Managerial Scenarios Narrative Report",
@@ -2647,7 +3681,9 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": []
   },
   {
     "name": "Managerial Scenarios Profile Report",
@@ -2659,7 +3695,17 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English International",
+      "German",
+      "Italian",
+      "Russian",
+      "Romanian",
+      "Turkish",
+      "Japanese"
+    ]
   },
   {
     "name": "Manual Testing (New)",
@@ -2676,6 +3722,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -2688,7 +3739,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Manufac. & Indust. - Safety & Dependability 8.0",
@@ -2706,6 +3762,18 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Italian",
+      "Japanese",
+      "Chinese Simplified"
     ]
   },
   {
@@ -2724,7 +3792,9 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
-    ]
+    ],
+    "duration": "",
+    "languages": []
   },
   {
     "name": "Manufacturing & Industrial - Mechanical Focus 8.0",
@@ -2736,7 +3806,9 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": []
   },
   {
     "name": "Manufacturing & Industrial - Vigilance Focus 8.0",
@@ -2748,7 +3820,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Marketing (New)",
@@ -2760,7 +3837,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Maven (New)",
@@ -2772,7 +3854,9 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": []
   },
   {
     "name": "Mechanical Engineering (New)",
@@ -2784,7 +3868,9 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": []
   },
   {
     "name": "Mechatronics Engineering (New)",
@@ -2801,7 +3887,9 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
-    ]
+    ],
+    "duration": "",
+    "languages": []
   },
   {
     "name": "Medical Terminology (New)",
@@ -2813,7 +3901,9 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": []
   },
   {
     "name": "Metallurgical Engineering (New)",
@@ -2825,7 +3915,9 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": []
   },
   {
     "name": "MFS 360 Enterprise Leadership Report",
@@ -2840,6 +3932,17 @@
     "job_levels": [
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "German",
+      "Dutch",
+      "Italian",
+      "Japanese",
+      "Chinese Simplified"
     ]
   },
   {
@@ -2855,7 +3958,9 @@
     "job_levels": [
       "Graduate",
       "Manager"
-    ]
+    ],
+    "duration": "",
+    "languages": []
   },
   {
     "name": "MFS 360 UCF Performance Potential Dev Tips Report",
@@ -2870,7 +3975,9 @@
     "job_levels": [
       "Graduate",
       "Manager"
-    ]
+    ],
+    "duration": "",
+    "languages": []
   },
   {
     "name": "MFS 360 UCF Standard Report",
@@ -2882,7 +3989,25 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Dutch",
+      "Italian",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Finnish"
+    ]
   },
   {
     "name": "Micro Focus Unified Functional Testing (New)",
@@ -2899,7 +4024,9 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
-    ]
+    ],
+    "duration": "",
+    "languages": []
   },
   {
     "name": "Microservices (New)",
@@ -2916,7 +4043,9 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
-    ]
+    ],
+    "duration": "",
+    "languages": []
   },
   {
     "name": "Microsoft Dynamics Development (New)",
@@ -2928,7 +4057,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Microsoft Excel 365 - Essentials (New)",
@@ -2944,6 +4078,11 @@
       "Entry-Level",
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -2960,7 +4099,9 @@
       "Entry-Level",
       "Graduate",
       "Manager"
-    ]
+    ],
+    "duration": "",
+    "languages": []
   },
   {
     "name": "Microsoft Outlook 2013 (adaptive)",
@@ -2977,6 +4118,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -2993,7 +4139,9 @@
       "Entry-Level",
       "Graduate",
       "Manager"
-    ]
+    ],
+    "duration": "",
+    "languages": []
   },
   {
     "name": "Microsoft SQL Server 2014 Programming",
@@ -3010,7 +4158,9 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
-    ]
+    ],
+    "duration": "",
+    "languages": []
   },
   {
     "name": "Microsoft Windows Server 2012 Administration",
@@ -3028,7 +4178,9 @@
       "Director",
       "Mid-Professional",
       "Professional Individual Contributor"
-    ]
+    ],
+    "duration": "",
+    "languages": []
   },
   {
     "name": "Microsoft Word 365 - Essentials (New)",
@@ -3044,6 +4196,11 @@
       "Entry-Level",
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -3060,7 +4217,9 @@
       "Entry-Level",
       "Graduate",
       "Manager"
-    ]
+    ],
+    "duration": "",
+    "languages": []
   },
   {
     "name": "Mineral Engineering (New)",
@@ -3078,6 +4237,11 @@
       "Mid-Professional",
       "Supervisor",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -3096,6 +4260,11 @@
       "Mid-Professional",
       "Supervisor",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -3113,6 +4282,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -3130,7 +4304,9 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
-    ]
+    ],
+    "duration": "",
+    "languages": []
   },
   {
     "name": "MongoDB (New)",
@@ -3147,6 +4323,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -3170,7 +4351,9 @@
       "Professional Individual Contributor",
       "General Population",
       "Front Line Manager"
-    ]
+    ],
+    "duration": "",
+    "languages": []
   },
   {
     "name": "MQ Candidate Motivation Report",
@@ -3193,7 +4376,9 @@
       "Professional Individual Contributor",
       "General Population",
       "Front Line Manager"
-    ]
+    ],
+    "duration": "",
+    "languages": []
   },
   {
     "name": "MQ Employee Motivation Report",
@@ -3216,7 +4401,9 @@
       "Professional Individual Contributor",
       "General Population",
       "Front Line Manager"
-    ]
+    ],
+    "duration": "",
+    "languages": []
   },
   {
     "name": "MQ Motivation Report Pack",
@@ -3239,6 +4426,13 @@
       "Professional Individual Contributor",
       "General Population",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "Japanese",
+      "Chinese Simplified"
     ]
   },
   {
@@ -3262,6 +4456,24 @@
       "Professional Individual Contributor",
       "General Population",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Dutch",
+      "Italian",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Finnish"
     ]
   },
   {
@@ -3274,7 +4486,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "MS Excel (New)",
@@ -3286,7 +4503,16 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "French",
+      "Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Japanese"
+    ]
   },
   {
     "name": "MS Office Basic Computer Literacy (New)",
@@ -3298,7 +4524,9 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": []
   },
   {
     "name": "MS Office Basic Computer Literacy (Sim) (New)",
@@ -3310,7 +4538,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "MS PowerPoint (New)",
@@ -3330,7 +4563,9 @@
       "Supervisor",
       "Professional Individual Contributor",
       "Front Line Manager"
-    ]
+    ],
+    "duration": "",
+    "languages": []
   },
   {
     "name": "MS Word (New)",
@@ -3342,7 +4577,16 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "French",
+      "Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Japanese"
+    ]
   },
   {
     "name": "MuleSoft Development (New)",
@@ -3359,14 +4603,19 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
     "name": "Multitasking Ability",
     "url": "https://www.shl.com/products/product-catalog/view/multitasking-ability/",
-    "test_type": "A",
+    "test_type": "M",
     "test_types": [
-      "A"
+      "M"
     ],
     "remote_testing": false,
     "adaptive_irt": false,
@@ -3380,6 +4629,11 @@
       "Mid-Professional",
       "Professional Individual Contributor",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -3392,7 +4646,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Node.js (New)",
@@ -3409,6 +4668,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -3427,6 +4691,11 @@
       "Mid-Professional",
       "Supervisor",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -3449,6 +4718,24 @@
       "Professional Individual Contributor",
       "General Population",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Dutch",
+      "Italian",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Finnish"
     ]
   },
   {
@@ -3467,6 +4754,11 @@
       "Mid-Professional",
       "Supervisor",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -3489,6 +4781,12 @@
       "Professional Individual Contributor",
       "General Population",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "Finnish",
+      "Japanese"
     ]
   },
   {
@@ -3501,7 +4799,25 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Dutch",
+      "Italian",
+      "Swedish",
+      "Danish",
+      "Finnish",
+      "Hungarian"
+    ]
   },
   {
     "name": "OPQ Emotional Intelligence Report",
@@ -3523,6 +4839,22 @@
       "Professional Individual Contributor",
       "General Population",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Dutch",
+      "Swedish",
+      "Danish",
+      "Finnish",
+      "Japanese"
     ]
   },
   {
@@ -3535,7 +4867,25 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Dutch",
+      "Swedish",
+      "Danish",
+      "Russian",
+      "Polish",
+      "Romanian",
+      "Japanese"
+    ]
   },
   {
     "name": "OPQ Manager Plus Report",
@@ -3556,6 +4906,24 @@
       "Mid-Professional",
       "Professional Individual Contributor",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Dutch",
+      "Italian",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Finnish"
     ]
   },
   {
@@ -3568,7 +4936,21 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Swedish",
+      "Finnish",
+      "Japanese",
+      "Chinese Simplified"
+    ]
   },
   {
     "name": "OPQ Maximising your Learning Report",
@@ -3590,6 +4972,17 @@
       "Professional Individual Contributor",
       "General Population",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "French",
+      "French (Canada)",
+      "Portuguese",
+      "Dutch",
+      "Swedish",
+      "Danish",
+      "Japanese"
     ]
   },
   {
@@ -3612,6 +5005,24 @@
       "Professional Individual Contributor",
       "General Population",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Dutch",
+      "Italian",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Finnish"
     ]
   },
   {
@@ -3634,6 +5045,11 @@
       "Professional Individual Contributor",
       "General Population",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "Japanese"
     ]
   },
   {
@@ -3646,7 +5062,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English International",
+      "Japanese"
+    ]
   },
   {
     "name": "OPQ Profile Report",
@@ -3658,7 +5079,25 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Dutch",
+      "Italian",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Finnish"
+    ]
   },
   {
     "name": "OPQ Team Impact Group Development Report",
@@ -3680,6 +5119,17 @@
       "Professional Individual Contributor",
       "General Population",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "Dutch",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Finnish",
+      "Japanese"
     ]
   },
   {
@@ -3692,7 +5142,20 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "Spanish",
+      "Latin American Spanish",
+      "Dutch",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Finnish",
+      "Japanese"
+    ]
   },
   {
     "name": "OPQ Team Impact Selection Report",
@@ -3714,6 +5177,19 @@
       "Professional Individual Contributor",
       "General Population",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "Spanish",
+      "Latin American Spanish",
+      "Dutch",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Finnish",
+      "Japanese"
     ]
   },
   {
@@ -3726,7 +5202,25 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Italian",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Turkish",
+      "Japanese"
+    ]
   },
   {
     "name": "OPQ Team Types and Leadership Styles Report",
@@ -3748,6 +5242,23 @@
       "Professional Individual Contributor",
       "General Population",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Dutch",
+      "Italian",
+      "Norwegian",
+      "Danish",
+      "Finnish",
+      "Japanese"
     ]
   },
   {
@@ -3770,6 +5281,24 @@
       "Professional Individual Contributor",
       "General Population",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Dutch",
+      "Italian",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Finnish",
+      "Polish"
     ]
   },
   {
@@ -3792,6 +5321,24 @@
       "Professional Individual Contributor",
       "General Population",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Italian",
+      "Swedish",
+      "Norwegian",
+      "Finnish",
+      "Japanese",
+      "Thai"
     ]
   },
   {
@@ -3804,7 +5351,25 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Dutch",
+      "Italian",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Finnish"
+    ]
   },
   {
     "name": "OPQ Universal Competency Report 2.0",
@@ -3826,6 +5391,21 @@
       "Professional Individual Contributor",
       "General Population",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Italian",
+      "Swedish",
+      "Japanese",
+      "Thai"
     ]
   },
   {
@@ -3848,6 +5428,17 @@
       "Professional Individual Contributor",
       "General Population",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "French",
+      "Portuguese",
+      "Italian",
+      "Norwegian",
+      "Danish",
+      "Finnish",
+      "Japanese"
     ]
   },
   {
@@ -3870,6 +5461,24 @@
       "Professional Individual Contributor",
       "General Population",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Dutch",
+      "Italian",
+      "Norwegian",
+      "Danish",
+      "Finnish",
+      "Japanese"
     ]
   },
   {
@@ -3882,7 +5491,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Oracle DBA (Entry Level) (New)",
@@ -3899,6 +5513,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -3916,6 +5535,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -3928,7 +5552,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Organic Chemistry (New)",
@@ -3940,7 +5569,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Paint Technology (New)",
@@ -3957,6 +5591,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -3974,6 +5613,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -3986,7 +5630,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Perl (New)",
@@ -3998,7 +5647,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Petrochemical Engineering (New)",
@@ -4015,6 +5669,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -4032,6 +5691,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -4049,6 +5713,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -4061,7 +5730,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Pharmaceutical Science (New)",
@@ -4078,6 +5752,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -4090,7 +5769,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Pharmacology (New)",
@@ -4102,7 +5786,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "PHP (New)",
@@ -4119,14 +5808,20 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
     "name": "PJM Development Report",
     "url": "https://www.shl.com/products/product-catalog/view/pjm-development-report/",
-    "test_type": "A",
+    "test_type": "D",
     "test_types": [
-      "A"
+      "D",
+      "C"
     ],
     "remote_testing": false,
     "adaptive_irt": false,
@@ -4135,14 +5830,28 @@
       "Graduate",
       "Manager",
       "Mid-Professional"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Italian",
+      "Japanese"
     ]
   },
   {
     "name": "PJM Selection Report",
     "url": "https://www.shl.com/products/product-catalog/view/pjm-selection-report/",
-    "test_type": "A",
+    "test_type": "D",
     "test_types": [
-      "A"
+      "D",
+      "C"
     ],
     "remote_testing": false,
     "adaptive_irt": false,
@@ -4151,6 +5860,20 @@
       "Graduate",
       "Manager",
       "Mid-Professional"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Italian",
+      "Japanese",
+      "Chinese Simplified"
     ]
   },
   {
@@ -4168,6 +5891,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -4180,7 +5908,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Power System Engineering (New)",
@@ -4192,7 +5925,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Prism (New)",
@@ -4204,7 +5942,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Production and Industrial Engineering (New)",
@@ -4221,6 +5964,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -4233,7 +5981,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Programming Concepts",
@@ -4245,7 +5998,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Project Management (2013)",
@@ -4262,6 +6020,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -4279,6 +6042,12 @@
       "Graduate",
       "Manager",
       "Mid-Professional"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -4296,6 +6065,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -4313,6 +6087,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -4330,6 +6109,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -4342,7 +6126,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Reading Comprehension - Spanish v1",
@@ -4361,6 +6150,13 @@
       "Mid-Professional",
       "Professional Individual Contributor",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Spanish",
+      "Latin American Spanish",
+      "Japanese"
     ]
   },
   {
@@ -4373,7 +6169,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "RemoteWorkQ",
@@ -4396,6 +6197,24 @@
       "Professional Individual Contributor",
       "General Population",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Dutch",
+      "Italian",
+      "Turkish",
+      "Arabic",
+      "Japanese",
+      "Chinese Simplified"
     ]
   },
   {
@@ -4408,7 +6227,21 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Italian",
+      "Arabic",
+      "Japanese",
+      "Chinese Simplified",
+      "Indonesian"
+    ]
   },
   {
     "name": "RemoteWorkQ Participant Report",
@@ -4431,6 +6264,20 @@
       "Professional Individual Contributor",
       "General Population",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Italian",
+      "Arabic",
+      "Japanese",
+      "Chinese Simplified",
+      "Indonesian"
     ]
   },
   {
@@ -4448,14 +6295,19 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
     "name": "Retail Sales and Service Simulation",
     "url": "https://www.shl.com/products/product-catalog/view/retail-sales-and-service-simulation/",
-    "test_type": "A",
+    "test_type": "M",
     "test_types": [
-      "A"
+      "M"
     ],
     "remote_testing": false,
     "adaptive_irt": false,
@@ -4464,6 +6316,11 @@
       "Entry-Level",
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -4476,7 +6333,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Ruby (New)",
@@ -4493,6 +6355,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -4510,6 +6377,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -4522,7 +6394,23 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Dutch",
+      "Italian",
+      "Japanese",
+      "Chinese Simplified"
+    ]
   },
   {
     "name": "Sales & Service Phone Solution",
@@ -4532,7 +6420,23 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Dutch",
+      "Italian",
+      "Japanese",
+      "Chinese Simplified"
+    ]
   },
   {
     "name": "Sales Interview Guide",
@@ -4544,7 +6448,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English International",
+      "Japanese"
+    ]
   },
   {
     "name": "Sales Profiler Cards",
@@ -4565,6 +6474,12 @@
       "Mid-Professional",
       "Professional Individual Contributor",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "Finnish",
+      "Japanese"
     ]
   },
   {
@@ -4577,7 +6492,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English International",
+      "Japanese"
+    ]
   },
   {
     "name": "Sales Transformation 2.0 - Individual Contributor",
@@ -4597,6 +6517,17 @@
       "Professional Individual Contributor",
       "General Population",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Japanese",
+      "Chinese Simplified"
     ]
   },
   {
@@ -4609,7 +6540,17 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "German",
+      "Spanish",
+      "Dutch",
+      "Japanese"
+    ]
   },
   {
     "name": "Sales Transformation Report 2.0 - Sales Manager",
@@ -4628,6 +6569,17 @@
       "Executive",
       "Supervisor",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Japanese",
+      "Chinese Simplified"
     ]
   },
   {
@@ -4645,6 +6597,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -4657,7 +6614,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "SAP ABAP (Intermediate Level) (New)",
@@ -4674,6 +6636,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -4691,6 +6658,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -4708,6 +6680,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -4725,6 +6702,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -4742,6 +6724,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -4759,6 +6746,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -4771,7 +6763,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "SAP SD (Sales and Distribution) (New)",
@@ -4783,7 +6780,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Search Engine Optimization (New)",
@@ -4800,6 +6802,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -4817,6 +6824,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -4834,6 +6846,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -4846,7 +6863,25 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Dutch",
+      "Italian",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Finnish"
+    ]
   },
   {
     "name": "SHL Verify Interactive \u2013 Deductive Reasoning",
@@ -4863,6 +6898,24 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Dutch",
+      "Italian",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Finnish"
     ]
   },
   {
@@ -4880,6 +6933,24 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Dutch",
+      "Italian",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Finnish"
     ]
   },
   {
@@ -4897,6 +6968,24 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "36 minutes",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Dutch",
+      "Italian",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Finnish"
     ]
   },
   {
@@ -4909,7 +6998,13 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Siebel Development (New)",
@@ -4926,6 +7021,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -4938,7 +7038,23 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "French",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Dutch",
+      "Italian",
+      "Romanian",
+      "Arabic",
+      "Japanese",
+      "Indonesian",
+      "Greek"
+    ]
   },
   {
     "name": "Smart Interview Live Coding",
@@ -4950,7 +7066,13 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Spanish",
+      "Japanese"
+    ]
   },
   {
     "name": "Smart Interview On Demand",
@@ -4971,6 +7093,24 @@
       "Professional Individual Contributor",
       "General Population",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "German",
+      "Spanish",
+      "Portuguese",
+      "Dutch",
+      "Italian",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Finnish",
+      "Russian",
+      "Polish",
+      "Czech"
     ]
   },
   {
@@ -4983,7 +7123,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "Software Business Analysis",
@@ -5000,6 +7145,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -5017,6 +7167,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -5033,6 +7188,11 @@
       "Entry-Level",
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -5049,6 +7209,12 @@
       "Entry-Level",
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -5066,6 +7232,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -5078,7 +7249,12 @@
     "remote_testing": false,
     "adaptive_irt": false,
     "description": "",
-    "job_levels": []
+    "job_levels": [],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
+    ]
   },
   {
     "name": "SQL Server (New)",
@@ -5095,6 +7271,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -5112,6 +7293,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -5129,6 +7315,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -5146,6 +7337,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -5163,6 +7359,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -5180,6 +7381,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -5196,6 +7402,11 @@
       "Entry-Level",
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -5212,6 +7423,11 @@
       "Entry-Level",
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -5228,6 +7444,12 @@
       "Entry-Level",
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -5244,6 +7466,11 @@
       "Entry-Level",
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -5260,6 +7487,13 @@
       "Entry-Level",
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "Japanese"
     ]
   },
   {
@@ -5276,6 +7510,12 @@
       "Entry-Level",
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "French",
+      "Japanese"
     ]
   },
   {
@@ -5292,6 +7532,12 @@
       "Entry-Level",
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Spanish",
+      "Japanese"
     ]
   },
   {
@@ -5308,6 +7554,13 @@
       "Entry-Level",
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Spanish",
+      "Latin American Spanish",
+      "Japanese"
     ]
   },
   {
@@ -5325,6 +7578,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -5342,6 +7600,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -5360,6 +7623,11 @@
       "Mid-Professional",
       "Supervisor",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -5377,6 +7645,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -5396,6 +7669,11 @@
       "Mid-Professional",
       "Professional Individual Contributor",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -5412,6 +7690,11 @@
       "Graduate",
       "Manager",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -5428,6 +7711,11 @@
       "Entry-Level",
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -5445,6 +7733,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -5466,6 +7759,15 @@
       "Mid-Professional",
       "Professional Individual Contributor",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "German",
+      "Portuguese",
+      "Swedish",
+      "Finnish",
+      "Japanese"
     ]
   },
   {
@@ -5487,6 +7789,12 @@
       "Mid-Professional",
       "Professional Individual Contributor",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "Portuguese",
+      "Japanese"
     ]
   },
   {
@@ -5508,6 +7816,24 @@
       "Mid-Professional",
       "Professional Individual Contributor",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Dutch",
+      "Italian",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Finnish",
+      "Japanese"
     ]
   },
   {
@@ -5525,6 +7851,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -5542,6 +7873,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -5565,6 +7901,24 @@
       "Professional Individual Contributor",
       "General Population",
       "Front Line Manager"
+    ],
+    "duration": "18 minutes",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Dutch",
+      "Italian",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Finnish"
     ]
   },
   {
@@ -5581,6 +7935,20 @@
       "Entry-Level",
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Dutch",
+      "Italian",
+      "Arabic",
+      "Japanese",
+      "Chinese Simplified"
     ]
   },
   {
@@ -5604,6 +7972,24 @@
       "Professional Individual Contributor",
       "General Population",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Dutch",
+      "Italian",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Finnish"
     ]
   },
   {
@@ -5620,14 +8006,30 @@
       "Entry-Level",
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Dutch",
+      "Turkish",
+      "Japanese",
+      "Chinese Simplified"
     ]
   },
   {
     "name": "Verify - Inductive Reasoning (2014)",
     "url": "https://www.shl.com/products/product-catalog/view/verify-inductive-reasoning-2014/",
-    "test_type": "A",
+    "test_type": "D",
     "test_types": [
-      "A"
+      "D"
     ],
     "remote_testing": false,
     "adaptive_irt": false,
@@ -5643,6 +8045,24 @@
       "Professional Individual Contributor",
       "General Population",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Dutch",
+      "Italian",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Finnish"
     ]
   },
   {
@@ -5666,6 +8086,24 @@
       "Professional Individual Contributor",
       "General Population",
       "Front Line Manager"
+    ],
+    "duration": "20 minutes",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Dutch",
+      "Italian",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Finnish"
     ]
   },
   {
@@ -5682,6 +8120,19 @@
       "Entry-Level",
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Dutch",
+      "Italian",
+      "Japanese",
+      "Chinese Simplified"
     ]
   },
   {
@@ -5705,6 +8156,12 @@
       "Professional Individual Contributor",
       "General Population",
       "Front Line Manager"
+    ],
+    "duration": "15 minutes",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -5721,6 +8178,21 @@
       "Entry-Level",
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Dutch",
+      "Italian",
+      "Arabic",
+      "Japanese",
+      "Chinese Simplified",
+      "Greek"
     ]
   },
   {
@@ -5736,14 +8208,32 @@
     "job_levels": [
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Dutch",
+      "Italian",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Finnish"
     ]
   },
   {
     "name": "Verify G+ - Candidate Report",
     "url": "https://www.shl.com/products/product-catalog/view/verify-g-candidate-report/",
-    "test_type": "A",
+    "test_type": "D",
     "test_types": [
-      "A"
+      "D"
     ],
     "remote_testing": false,
     "adaptive_irt": false,
@@ -5751,6 +8241,19 @@
     "job_levels": [
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "German",
+      "Dutch",
+      "Danish",
+      "Finnish",
+      "Polish",
+      "Japanese",
+      "Chinese Simplified"
     ]
   },
   {
@@ -5766,6 +8269,24 @@
     "job_levels": [
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "German",
+      "Dutch",
+      "Italian",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Finnish",
+      "Arabic",
+      "Japanese",
+      "Chinese Simplified",
+      "Lithuanian",
+      "Latvian"
     ]
   },
   {
@@ -5781,6 +8302,24 @@
     "job_levels": [
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Dutch",
+      "Norwegian",
+      "Danish",
+      "Finnish",
+      "Russian",
+      "Polish",
+      "Czech"
     ]
   },
   {
@@ -5798,6 +8337,24 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Dutch",
+      "Italian",
+      "Swedish",
+      "Norwegian",
+      "Finnish",
+      "Russian"
     ]
   },
   {
@@ -5815,6 +8372,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -5838,6 +8400,24 @@
       "Professional Individual Contributor",
       "General Population",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Dutch",
+      "Italian",
+      "Romanian",
+      "Arabic",
+      "Japanese",
+      "Chinese Simplified",
+      "Indonesian"
     ]
   },
   {
@@ -5855,6 +8435,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -5871,6 +8456,12 @@
       "Entry-Level",
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -5887,6 +8478,11 @@
       "Entry-Level",
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -5904,6 +8500,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -5920,6 +8521,11 @@
       "Entry-Level",
       "Graduate",
       "Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -5938,6 +8544,11 @@
       "Mid-Professional",
       "Supervisor",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -5957,6 +8568,11 @@
       "Mid-Professional",
       "Supervisor",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -5976,6 +8592,11 @@
       "Mid-Professional",
       "Supervisor",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -5995,6 +8616,11 @@
       "Mid-Professional",
       "Supervisor",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -6014,6 +8640,11 @@
       "Mid-Professional",
       "Supervisor",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -6033,6 +8664,12 @@
       "Mid-Professional",
       "Professional Individual Contributor",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -6052,6 +8689,12 @@
       "Mid-Professional",
       "Professional Individual Contributor",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "Spanish",
+      "Latin American Spanish",
+      "Japanese"
     ]
   },
   {
@@ -6069,6 +8712,11 @@
       "Manager",
       "Mid-Professional",
       "Professional Individual Contributor"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -6089,6 +8737,11 @@
       "Executive",
       "General Population",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English (USA)",
+      "Japanese"
     ]
   },
   {
@@ -6109,6 +8762,24 @@
       "Mid-Professional",
       "Professional Individual Contributor",
       "Front Line Manager"
+    ],
+    "duration": "",
+    "languages": [
+      "English International",
+      "English (USA)",
+      "French",
+      "French (Canada)",
+      "German",
+      "Spanish",
+      "Latin American Spanish",
+      "Portuguese",
+      "Portuguese (Brazil)",
+      "Dutch",
+      "Italian",
+      "Swedish",
+      "Norwegian",
+      "Danish",
+      "Finnish"
     ]
   }
 ]

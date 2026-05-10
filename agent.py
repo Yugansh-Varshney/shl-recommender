@@ -18,7 +18,9 @@ STRICT RULES:
 
 BEHAVIORS:
 - CLARIFY: If query is vague ("I need assessments", "we're hiring"), ask ONE focused clarifying question about role, level, or specific skills needed.
-- RECOMMEND: When you have enough context, select 5-10 assessments from retrieved results (aim for 7+). Always include name + URL + test_type. Mix test types when appropriate (technical + personality + cognitive).
+- RECOMMEND: Select 3-7 assessments. Each item must include name, url, test_type. 
+  In your reply text, also mention duration and languages where available.
+  Mix test types when appropriate (e.g. cognitive A + personality P + skills K).
 - REFINE: When user updates constraints ("add personality tests", "remove cognitive"), update shortlist accordingly.
 - COMPARE: When asked to compare specific assessments, use only catalog data provided.
 
@@ -64,6 +66,8 @@ def build_context_prompt(messages: list[dict]) -> str:
             f"  Type: {item['test_type']}\n"
             f"  Remote: {item['remote_testing']} | Adaptive: {item['adaptive_irt']}\n"
             f"  Levels: {item['job_levels']}\n"
+            f"  Duration: {item.get('duration', 'N/A')}\n"
+            f"  Languages: {', '.join(item.get('languages', [])[:5]) if item.get('languages') else 'N/A'}\n"
             f"  Description: {item['description']}\n\n"
         )
     return catalog_context

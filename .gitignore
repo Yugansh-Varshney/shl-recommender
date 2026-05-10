@@ -1,6 +1,4 @@
 .env
 __pycache__/
-chroma_db/
 *.pyc
 _scraper_temp.py
-catalog.json
